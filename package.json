@@ -1,0 +1,22 @@
+{
+	"name": "com.ellyality.network.mirror",
+	"displayName":"Mirror",
+	"version": "1.0.0",
+    "author": "Elly Network",
+    "unity": "2019.2",
+    "keywords": ["network", "mirror", "websocket", "server", "client", "tcp", "udp", "multiplayer"],
+    "category": "engineering",
+    "license": "LICENSE",
+	"description": "Mirror network library",
+    "documentationUrl": "https://github.com/Ellyality/package_mirror/blob/main/README.md",
+    "dependencies": {
+		"com.ellyality.data.newtonsoft.json": "1.0.0"
+	},
+	"samples":[
+        {
+            "displayName": "Demo Setup",
+            "description": "Simple rpg setup scene (Single player)",
+            "path": "~Demo"
+        }
+    ]
+}
